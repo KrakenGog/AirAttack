@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84b26770eb63ee640a6c53fdfb4c0a64, type: 3}
+  m_Name: TestMission
+  m_EditorClassIdentifier: 
+  _missionFlow: {fileID: 9197627927882488309, guid: d881f4677b36c1f40ac565a20293979b,
+    type: 3}

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84b26770eb63ee640a6c53fdfb4c0a64, type: 3}
+  m_Name: MassAssault
+  m_EditorClassIdentifier: 
+  _missionFlow: {fileID: 3437781386481755691, guid: 336ec6f7d24a3654287dc0ea6ebfc19e,
+    type: 3}
